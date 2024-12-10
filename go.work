@@ -1,0 +1,10 @@
+go 1.23
+use (
+	.
+	./staging/src/k8s.io/component-base
+	./staging/src/k8s.io/cri-client
+	./staging/src/k8s.io/cri-api
+	./staging/src/k8s.io/apimachinery
+	./staging/src/k8s.io/kubelet
+	./staging/src/k8s.io/client-go
+)
