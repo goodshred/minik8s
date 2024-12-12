@@ -7,4 +7,7 @@ use (
 	./staging/src/k8s.io/apimachinery
 	./staging/src/k8s.io/kubelet
 	./staging/src/k8s.io/client-go
+	./staging/src/k8s.io/apiserver
+	./staging/src/k8s.io/kube-aggregator
+	./staging/src/k8s.io/apiextensions-apiserver
 )

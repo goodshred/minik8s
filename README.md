@@ -1,4 +1,5 @@
 # minik8s
+参考k8s版本1.31.3
 mini版的k8s，用于学习k8s设计思想
 
 # kubelet工作原理

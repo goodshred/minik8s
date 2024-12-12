@@ -225,7 +225,6 @@ func PreInitRuntimeService(kubeCfg *kubeletconfiginternal.KubeletConfiguration, 
 		return err
 	}
 	return nil
-
 }
 
 // Run starts the kubelet reacting to config updates
